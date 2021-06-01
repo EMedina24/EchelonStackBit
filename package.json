@@ -38,6 +38,10 @@
     "react-tabs": "^3.2.1",
     "slick-carousel": "^1.8.1"
   },
+  "engines": {
+    "node": ">=12.3.0"
+   
+  },
   "devDependencies": {
     "@tailwindcss/custom-forms": "^0.2.1",
     "prettier": "2.2.1",
